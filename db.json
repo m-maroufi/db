@@ -1,0 +1,111 @@
+{
+  "menu": [
+    { "id": 1, "title": "خانه" },
+    { "id": 2, "title": "فروشگاه" },
+    { "id": 3, "title": "درباره ما" },
+    { "id": 4, "title": "تماس با ما" },
+    { "id": 5, "title": "وبلاگ" }
+  ],
+  "main": [
+    { "id": 1, "image": "/public/slide1.png" },
+    { "id": 2, "image": "/public/slide2.png" },
+    { "id": 3, "image": "/public/pic1.png" },
+    { "id": 4, "image": "/public/slide4.png" }
+  ],
+  "newgame": [
+    {
+      "id": 1,
+      "image": "/public/newgame1.png",
+      "title": " بازی FIFA 23 برای کنسول پلی استیشن ۵",
+      "price": "قیمت ۴/۵۰۰ هزار تومان",
+      "description": "۲۵۷ نفر خرید کرده اند.",
+      "buy": "خرید"
+    },
+    {
+      "id": 2,
+      "image": "/public/newgame2.png",
+      "title": " بازی Fortnite برای کنسول پلی استیشن ۵",
+      "price": "قیمت ۳/۴۵۰ هزار تومان",
+      "description": "۲۵۷ نفر خرید کرده اند.",
+      "buy": "خرید"
+    },
+    {
+      "id": 3,
+      "image": "/public/newgame3.png",
+      "title": "بازی Diablo 4 برای کنسول پلی استیشن ۵",
+      "price": "قیمت ۳/۶۰۰ هزار تومان",
+      "description": "۲۵۷ نفر خرید کرده اند.",
+      "buy": "خرید"
+    },
+    {
+      "id": 4,
+      "image": "/public/newgame4.png",
+      "title": "بازی Call Of Duty برای کنسول پلی استیشن ۵",
+      "price": "قیمت ۲/۳۰۰ هزار تومان",
+      "description": "۲۵۷ نفر خرید کرده اند.",
+      "buy": "خرید"
+    }
+  ],
+  "article": [
+    {
+      "id": 1,
+      "title1": "اخبار",
+      "title2": "ورزشی",
+      "description": "بازی NBA 2K 2023 رکورد پرفروش ترین بازی ورزشی را شکست.",
+      "text": "۲۰۰ نفر این مقاله را خوانده اند",
+      "image": "/public/article1.png",
+      "read": "مشاهده مقاله"
+    },
+    {
+      "id": 2,
+      "title1": "اکشن",
+      "title2": "بازی های جدید",
+      "description": "نسخه جدید اساسینس کرید با عنوان (میراژ) منتشر شد.",
+      "text": "۲۰۰ نفر این مقاله را خوانده اند",
+      "image": "/public/article2.png",
+      "read": "مشاهده مقاله"
+    },
+    {
+      "id": 3,
+      "title1": "موسیقی",
+      "title2": "موسیقی",
+      "description": "بازی NBA 2K 2023 رکورد پرفروش ترین بازی ورزشی را شکست.",
+      "text": "۲۰۰ نفر این مقاله را خوانده اند",
+      "image": "/public/article3.png",
+      "read": "مشاهده مقاله"
+    }
+  ],
+  "game": [
+    {
+      "id": 1,
+      "image": "/public/game1.png",
+      "title": "تریلر نسخه جدید Call Of Duty Mobile",
+      "img": "/public/enteshar.png",
+      "text": "منتشر کننده : آرمان"
+    },
+    {
+      "id": 2,
+      "image": "/public/game2.png",
+      "title": "تریلر نسخه جدید Call Of Duty Mobile",
+
+      "img": "/public/enteshar.png",
+      "text": "منتشر کننده : آرمان"
+    },
+    {
+      "id": 3,
+      "image": "/public/game3.png",
+      "title": "تریلر نسخه جدید Call Of Duty Mobile",
+
+      "img": "/public/enteshar.png",
+      "text": "منتشر کننده : آرمان"
+    },
+    {
+      "id": 4,
+      "image": "/public/game4.png",
+      "title": "تریلر نسخه جدید Call Of Duty Mobile",
+
+      "img": "/public/enteshar.png",
+      "text": "منتشر کننده : آرمان"
+    }
+  ]
+}
