@@ -7,15 +7,15 @@
     { "id": 5, "title": "وبلاگ" }
   ],
   "main": [
-    { "id": 1, "image": "/public/slide1.png" },
-    { "id": 2, "image": "/public/slide2.png" },
-    { "id": 3, "image": "/public/pic1.png" },
-    { "id": 4, "image": "/public/slide4.png" }
+    { "id": 1, "image": "https://m-maroufi.github.io/db/public/slide1.png" },
+    { "id": 2, "image": "https://m-maroufi.github.io/db/public/slide2.png" },
+    { "id": 3, "image": "https://m-maroufi.github.io/db/public/pic1.png" },
+    { "id": 4, "image": "https://m-maroufi.github.io/db/public/slide4.png" }
   ],
   "newgame": [
     {
       "id": 1,
-      "image": "/public/newgame1.png",
+      "image": "https://m-maroufi.github.io/db/public/newgame1.png",
       "title": " بازی FIFA 23 برای کنسول پلی استیشن ۵",
       "price": "قیمت ۴/۵۰۰ هزار تومان",
       "description": "۲۵۷ نفر خرید کرده اند.",
@@ -23,7 +23,7 @@
     },
     {
       "id": 2,
-      "image": "/public/newgame2.png",
+      "image": "https://m-maroufi.github.io/db/public/newgame2.png",
       "title": " بازی Fortnite برای کنسول پلی استیشن ۵",
       "price": "قیمت ۳/۴۵۰ هزار تومان",
       "description": "۲۵۷ نفر خرید کرده اند.",
@@ -31,7 +31,7 @@
     },
     {
       "id": 3,
-      "image": "/public/newgame3.png",
+      "image": "https://m-maroufi.github.io/db/public/newgame3.png",
       "title": "بازی Diablo 4 برای کنسول پلی استیشن ۵",
       "price": "قیمت ۳/۶۰۰ هزار تومان",
       "description": "۲۵۷ نفر خرید کرده اند.",
@@ -39,7 +39,7 @@
     },
     {
       "id": 4,
-      "image": "/public/newgame4.png",
+      "image": "https://m-maroufi.github.io/db/public/newgame4.png",
       "title": "بازی Call Of Duty برای کنسول پلی استیشن ۵",
       "price": "قیمت ۲/۳۰۰ هزار تومان",
       "description": "۲۵۷ نفر خرید کرده اند.",
@@ -53,7 +53,7 @@
       "title2": "ورزشی",
       "description": "بازی NBA 2K 2023 رکورد پرفروش ترین بازی ورزشی را شکست.",
       "text": "۲۰۰ نفر این مقاله را خوانده اند",
-      "image": "/public/article1.png",
+      "image": "https://m-maroufi.github.io/db/public/article1.png",
       "read": "مشاهده مقاله"
     },
     {
@@ -62,7 +62,7 @@
       "title2": "بازی های جدید",
       "description": "نسخه جدید اساسینس کرید با عنوان (میراژ) منتشر شد.",
       "text": "۲۰۰ نفر این مقاله را خوانده اند",
-      "image": "/public/article2.png",
+      "image": "https://m-maroufi.github.io/db/public/article2.png",
       "read": "مشاهده مقاله"
     },
     {
@@ -71,40 +71,41 @@
       "title2": "موسیقی",
       "description": "بازی NBA 2K 2023 رکورد پرفروش ترین بازی ورزشی را شکست.",
       "text": "۲۰۰ نفر این مقاله را خوانده اند",
-      "image": "/public/article3.png",
+      "image": "https://m-maroufi.github.io/db/public/article3.png",
       "read": "مشاهده مقاله"
     }
   ],
   "game": [
     {
       "id": 1,
-      "image": "/public/game1.png",
+      "image": "https://m-maroufi.github.io/db/public/game1.png",
       "title": "تریلر نسخه جدید Call Of Duty Mobile",
-      "img": "/public/enteshar.png",
+      "img": "https://m-maroufi.github.io/db/public/enteshar.png",
       "text": "منتشر کننده : آرمان"
     },
+    
     {
       "id": 2,
-      "image": "/public/game2.png",
+      "image": "https://m-maroufi.github.io/db/public/game2.png",
       "title": "تریلر نسخه جدید Call Of Duty Mobile",
 
-      "img": "/public/enteshar.png",
+      "img": "https://m-maroufi.github.io/db/public/enteshar.png",
       "text": "منتشر کننده : آرمان"
     },
     {
       "id": 3,
-      "image": "/public/game3.png",
+      "image": "https://m-maroufi.github.io/db/public/game3.png",
       "title": "تریلر نسخه جدید Call Of Duty Mobile",
 
-      "img": "/public/enteshar.png",
+      "img": "https://m-maroufi.github.io/db/public/enteshar.png",
       "text": "منتشر کننده : آرمان"
     },
     {
       "id": 4,
-      "image": "/public/game4.png",
+      "image": "https://m-maroufi.github.io/db/public/game4.png",
       "title": "تریلر نسخه جدید Call Of Duty Mobile",
 
-      "img": "/public/enteshar.png",
+      "img": "https://m-maroufi.github.io/db/public/enteshar.png",
       "text": "منتشر کننده : آرمان"
     }
   ]
